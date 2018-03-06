@@ -1,12 +1,12 @@
 ---
-title: About
-subtitle: about me.
+title: Reading List
+subtitle: a list of books I read
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-Hi, everyone:
+I love books! Here are some I'm reading now:
 
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*
