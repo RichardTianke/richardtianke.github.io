@@ -2,6 +2,7 @@
 title: 设计模式原则
 author: Richard
 layout: post
+date:   2017-06-27 17:51:31 +0800
 ---
 
 ## 开闭原则
